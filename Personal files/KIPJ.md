@@ -6,6 +6,7 @@ Możesz na przykład dodać nową osobę do listy uczestników.
 ```python
 participants = ["PRKD", "PAAT", "ALZK"]
 participants.append("KIPJ")
+participants.append("KRWO")
 
 print(", ".join(participants))
 ```
