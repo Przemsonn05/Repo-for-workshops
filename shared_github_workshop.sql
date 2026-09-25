@@ -144,7 +144,8 @@ SELECT
     task_name,
     status,
     priority,
-    due_date
+    due_date,
+    milena
 FROM tasks
 ORDER BY due_date, priority;
 
