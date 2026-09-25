@@ -7,5 +7,5 @@ Dzięki temu zmiana będzie dobrze widoczna w zakładce Changes w GitHub Desktop
 def calculate_average(values: list[float]) -> float:
     return sum(values) / len(values)
 
-print(calculate_average([10, 15, 20]))
+print(calculate_average([10, 15, 20])
 ```
